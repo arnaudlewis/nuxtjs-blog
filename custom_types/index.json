@@ -1,1 +1,1 @@
-[{"id":"layout","name":"layout","repeatable":false,"value":"layout.json"},{"id":"homepage","name":"homepage","repeatable":false,"value":"homepage.json"},{"id":"blogpost","name":"blogpost","repeatable":true,"value":"blogpost.json"}]
+[{"id":"blog_post","name":"blog_post","repeatable":true,"value":"blog_post.json"},{"id":"header","name":"header","repeatable":false,"value":"header.json"}]
